@@ -83,7 +83,7 @@ Unlike thread-per-connection models, BlazeHTTP handles thousands of connections 
 
 ## 🌐 Browser Access via localhost
 
-<img width="960" height="1020" alt="server works" src="https://github.com/user-attachments/assets/3570d47d-086a-4fbb-b83c-311f04758b25" />
+<img width="780" height="293" alt="image" src="https://github.com/user-attachments/assets/5a7bbae4-da7e-41c5-a5c8-4dea1db476c8" />
 
 
 ---
